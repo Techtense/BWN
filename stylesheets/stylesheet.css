@@ -59,9 +59,12 @@ a {
       margin-left: 0; } }
 
 .page-header {
-   color:   #fff;
-   font-family: cursive;
-   text-align: center;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
    }
 
 @media screen and (min-width: 64em) {
