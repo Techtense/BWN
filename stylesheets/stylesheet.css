@@ -21,7 +21,7 @@ a {
     text-decoration: underline; }
 
 .btn {
-  display: inline-block;
+  display: inline;
   margin-bottom: 1rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
@@ -63,7 +63,7 @@ a {
   text-align: center;
   font-weight: 600;
   background-image: linear-gradient(to left, #553c9a, #b393d3);
-  color: transparent;
+  color: #ffff;
   background-clip: text;
   -webkit-background-clip: text;
    }
